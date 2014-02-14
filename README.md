@@ -7,7 +7,7 @@ Create an SendGrid account at http://sendgrid.com/pricing.html
 
 Clone SendGrid application on your local machine
 <pre>
-    git clone https://github.com/sendgrid/oracle-java-sample-app
+    git clone https://github.com/sendgrid/oracle-java-sample-app --recursive
 </pre>
 
 ###Configuration###
