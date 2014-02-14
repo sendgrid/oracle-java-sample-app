@@ -1,0 +1,3 @@
+[submodule "sendgrid-java-sample-app"]
+	path = sendgrid-java-sample-app
+	url = git@github.com:sendgrid/sendgrid-java-sample-app.git
